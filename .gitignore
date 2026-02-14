@@ -8,4 +8,4 @@ venv/
 env/
 
 # Temporary downloaded reports
-#Weekly Progress Reports/*
+Weekly Progress Reports/*

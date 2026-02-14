@@ -1,4 +1,9 @@
-# bot.py
+"""
+LEGACY REGEX VERSION.
+Kept for fallback and reference.
+Not currently used in production.
+"""
+# regex_bot.py
 
 import os
 import re

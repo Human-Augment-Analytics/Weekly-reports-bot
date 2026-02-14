@@ -6,7 +6,7 @@ import tempfile
 import requests
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
-from bot import build_summary, parse_report  # bot.py helpers
+from smart_bot import build_summary, parse_report  # smart_bot.py helpers
 
 # =========================
 # Slack Setup
